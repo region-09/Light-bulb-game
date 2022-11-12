@@ -1,0 +1,73 @@
+body {
+    background-color:steelblue;
+    color: white;
+}
+
+input {
+    width: 250px;
+    height: 30px;
+}
+
+#congrats {
+    font-size: 50px;
+}
+
+span, label {
+    font-size: x-large;
+}
+
+#twoButtons {
+    margin-bottom: 20px;
+}
+
+button {
+    width: 90px;
+    height: 40px;
+}
+
+div {
+    text-align: center;
+}
+
+#timer {
+    color: white;
+    border-color: black;
+    font-size:xx-large;
+    background-color:brown;
+}
+
+table.edit {
+    margin: auto;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+#levelEasy, #levelMedium, #levelHard {
+    text-align: center;
+    border-style: solid;
+    background-color:tomato;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+td {
+    width:70px;
+    height:70px;
+    background-size: 50px 50px;
+    background-repeat:no-repeat;
+    background-position: center;
+    border: 1px solid black;
+}
+
+table td {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    border: 1px solid gray;
+}
