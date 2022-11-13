@@ -320,7 +320,7 @@ function lightRow(grid) {
             }
         }
     }
-}
+};
 
 function hasLamp(grid, x, y) {
     // row right, left
