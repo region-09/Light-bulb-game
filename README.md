@@ -6,7 +6,7 @@ Hereby I declare that the solution is my own work. I did not copy or use solutio
 According to the Academic Regulations for Students (Eötvös Loránd University Organisational and Operational Regulations – Volume 2, Section 74/C), a student purporting the intellectual property of others as their own [...] is committing a disciplinary offence.
 The worst result of a disciplinary offence can be the expulsion of the student.
 
-Minimum requirements (must be completed, 8 pts)
+# Minimum requirements (must be completed, 8 pts)
 
 [x] Other: the `README.md` file from the *Other requirements* section is filled with your data and included with your solution (0 pts)
 [x] Game board: the elements of a map are shown properly (1 pt)
@@ -16,7 +16,7 @@ Minimum requirements (must be completed, 8 pts)
 [x] Game board: the game detects (either automatically or by the click of a button) if the solution is correct (3 pts)
 [x] Game board: the game can be restarted after solving without reloading the page (1 pt)
 
-Basic tasks (12 pts)
+# Basic tasks (12 pts)
 
 [x] Map selector: at least three different maps can be selected and started correctly (1 pt)
 [x] Map selector: the player's name can be entered which is shown during the game and on the scoreboard (1 pt)
@@ -31,7 +31,7 @@ Basic tasks (12 pts)
 [x] Map selector: the saved game is shown and can be loaded properly (1 pt)
 [x] Other: nice design (1 pt)
 
-Extra tasks (extra 5 pts)
+# Extra tasks (extra 5 pts)
 
 [ ] Map editor: custom maps can be created with any dimension and starting tiles (3 pts)
 [x] Map editor: the custom maps are stored persistently in localStorage (1 pt)
